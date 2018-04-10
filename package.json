@@ -1,6 +1,6 @@
 {
   "name": "nodetrainingdemo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "demo",
   "main": "index.js",
   "scripts": {

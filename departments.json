@@ -1,0 +1,12 @@
+{  
+   "departments":[  
+      {  
+         "departmentId":1,
+         "deptName":"computer science"
+      },
+      {  
+         "departmentId":2,
+         "deptName":"Mechanical"
+      }
+   ]
+}

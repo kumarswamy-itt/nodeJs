@@ -1,0 +1,12 @@
+{  
+    "studDeptMap":[  
+       {  
+          "studentId":1,
+          "departmentId":2
+       },
+       {  
+          "studentId":2,
+          "departmentId":1
+       }
+    ]
+ }
